@@ -29,6 +29,18 @@
 		- ###### **U**:
 			- [uciv.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Operatori%20si%20expresii/uciv.cpp)
 			- [urare.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Operatori%20si%20expresii/urare.cpp)
+	- **Structuri repetitive:**
+		- ###### **A**:
+			- [afisarenumere.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structuri%20repetitive/afisarenumere.cpp)
+			- [afisarenumere1.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structuri%20repetitive/afisarenumere1.cpp)
+			- [afisarenumere2.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structuri%20repetitive/afisarenumere2.cpp)
+			- [afisarenumereimpare.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structuri%20repetitive/afisarenumereimpare.cpp)
+			- [afisarenumerepare.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structuri%20repetitive/afisarenumerepare.cpp)
+			- [afisarenumerepare2.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structuri%20repetitive/afisarenumerepare2.cpp)
+		- ###### **C**:
+			- [catepare.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structuri%20repetitive/catepare.cpp)
+		- ###### **P**:
+			- [p10.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structuri%20repetitive/p10.cpp)
       
 ### Clasa a X-a:
 ### Clasa a XI-a:
