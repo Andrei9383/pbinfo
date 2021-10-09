@@ -107,6 +107,34 @@
 		- ###### **S**:
 			- [stergere.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Stergeri%20si%20inserari%20de%20elemente%20in%20vectori/stergere.cpp)
 			- [stergere1.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Stergeri%20si%20inserari%20de%20elemente%20in%20vectori/stergere1.cpp)
-			- [stergere_element.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Stergeri%20si%20inserari%20de%20elemente%20in%20vectori/stergere_element.cpp) 
+			- [stergere_element.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Stergeri%20si%20inserari%20de%20elemente%20in%20vectori/stergere_element.cpp)
+	- **Verificarea unor proprietati:** 
+		- ###### **A**:
+			- [alternanta.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Verificarea%20unor%20proprietati/alternanta.cpp)
+		- ###### **C**:
+			- [cautare.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Verificarea%20unor%20proprietati/cautare.cpp)
+			- [cifredistincte.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Verificarea%20unor%20proprietati/cifredistincte.cpp)
+		- ###### **E**:
+			- [egaleoglindit.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Verificarea%20unor%20proprietati/egaleoglindit.cpp)
+			- [existaimpare.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Verificarea%20unor%20proprietati/existaimpare.cpp)
+			- [existaprime.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Verificarea%20unor%20proprietati/existaprime.cpp) 
+		- ###### **I**:
+			- [identice.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Verificarea%20unor%20proprietati/identice.cpp)
+			- [interval3.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Verificarea%20unor%20proprietati/interval3.cpp)
+		- ###### **O**:
+			- [ordonat_neordonat.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Verificarea%20unor%20proprietati/ordonat_neordonat.cpp) 
+		- ###### **P**:
+			- [palxxl.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Verificarea%20unor%20proprietati/palxxl.cpp)
+			- [pareordonate.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Verificarea%20unor%20proprietati/pareordonate.cpp)
+			- [permutare.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Verificarea%20unor%20proprietati/permutare.cpp) 
+		- ###### **V**: 
+			- [vecini.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Verificarea%20unor%20proprietati/vecini.cpp)
+			- [verifdiferite.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Verificarea%20unor%20proprietati/verifdiferite.cpp)
+			- [verifegale.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Verificarea%20unor%20proprietati/verifegale.cpp)
+			- [verificareordonat.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Verificarea%20unor%20proprietati/verificareordonat.cpp)
+			- [verifmultiplu.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Verificarea%20unor%20proprietati/verifmultiplu.cpp)
+			- [verifnrparcifre.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Verificarea%20unor%20proprietati/verifnrparcifre.cpp)
+			- [veriford.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Verificarea%20unor%20proprietati/veriford.cpp)
+			- [verifpare.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Verificarea%20unor%20proprietati/verifpare.cpp) 
 ### Clasa a X-a:
 ### Clasa a XI-a:
