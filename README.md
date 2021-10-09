@@ -41,6 +41,54 @@
 			- [catepare.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structuri%20repetitive/catepare.cpp)
 		- ###### **P**:
 			- [p10.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structuri%20repetitive/p10.cpp)
-      
+- ### Tablouri unidimensionale (vectori)
+	- **Parcurgerea vectorilor:**
+		- ###### **A**:
+			- [afisare.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Parcurgerea%20vectorilor/afisare.cpp)
+			- [afisare0.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Parcurgerea%20vectorilor/afisare0.cpp)
+			- [afisare1.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Parcurgerea%20vectorilor/afisare1.cpp)
+			- [afisareminmax.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Parcurgerea%20vectorilor/afisareminmax.cpp)
+		- ###### **B**:
+			- [blackfriday.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Parcurgerea%20vectorilor/blackfriday.cpp) 
+		- ###### **C**:
+			- [constr.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Parcurgerea%20vectorilor/constr.cpp)
+			- [constr1.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Parcurgerea%20vectorilor/constr1.cpp)
+			- [constr2.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Parcurgerea%20vectorilor/constr2.cpp) 
+		- ###### **D**:
+			- [divfactorial.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Parcurgerea%20vectorilor/divfactorial.cpp) 
+		- ###### **E**:
+			- [elempp.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Parcurgerea%20vectorilor/elempp.cpp)
+			- [elevi.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Parcurgerea%20vectorilor/elevi.cpp) 
+		- ###### **G**:
+			- [groups.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Parcurgerea%20vectorilor/groups.cpp)
+		- ###### **I**:
+			- [inlocuire.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Parcurgerea%20vectorilor/inlocuire.cpp) 
+		- ###### **M**:
+			- [maxim4.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Parcurgerea%20vectorilor/maxim4.cpp)
+			- [maxmin1.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Parcurgerea%20vectorilor/maxmin1.cpp)
+			- [maxsim.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Parcurgerea%20vectorilor/maxsim.cpp)
+			- [minmax.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Parcurgerea%20vectorilor/minmax.cpp)
+			- [minmax0.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Parcurgerea%20vectorilor/minmax0.cpp) 
+		- ###### **N**:
+			- [nraparitii.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Parcurgerea%20vectorilor/nraparitii.cpp)
+			- [nrapprime.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Parcurgerea%20vectorilor/nrapprime.cpp)
+			- [numarare2.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Parcurgerea%20vectorilor/numarare2.cpp)
+			- [numarare3.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Parcurgerea%20vectorilor/numarare3.cpp)
+			- [numarare4.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Parcurgerea%20vectorilor/numarare4.cpp)
+			- [numarare5.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Parcurgerea%20vectorilor/numarare5.cpp)
+			- [numarare6.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Parcurgerea%20vectorilor/numarare6.cpp)
+			- [numarare7.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Parcurgerea%20vectorilor/numarare7.cpp)
+			- [numararepie.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Parcurgerea%20vectorilor/numararepie.cpp)
+			- [numarmunte.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Parcurgerea%20vectorilor/numarmunte.cpp) 
+		- ###### **P**:
+			- [paritate1.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Parcurgerea%20vectorilor/paritate1.cpp)
+			- [pozitie.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Parcurgerea%20vectorilor/pozitie.cpp)
+			- [pv.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Parcurgerea%20vectorilor/pv.cpp) 
+		- ###### **S**:
+			- [suma2.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Parcurgerea%20vectorilor/suma2.cpp)
+			- [sume.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Parcurgerea%20vectorilor/sume.cpp)
+		- ###### **U**:
+			- [uemm.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Parcurgerea%20vectorilor/uemm.cpp)
+			- [unice1.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Parcurgerea%20vectorilor/unice1.cpp)
 ### Clasa a X-a:
 ### Clasa a XI-a:
