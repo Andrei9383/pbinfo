@@ -90,5 +90,23 @@
 		- ###### **U**:
 			- [uemm.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Parcurgerea%20vectorilor/uemm.cpp)
 			- [unice1.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Parcurgerea%20vectorilor/unice1.cpp)
+	- **Stergeri si inserari de elemente in vectori:**
+		- ###### **A**:
+			- [aceeasi_paritate.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Stergeri%20si%20inserari%20de%20elemente%20in%20vectori/aceeasi_paritate.cpp)
+			- [aceeasi_paritate2.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Stergeri%20si%20inserari%20de%20elemente%20in%20vectori/aceeasi_paritate2.cpp)
+		- ###### **E**:
+			- [elimrep.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Stergeri%20si%20inserari%20de%20elemente%20in%20vectori/elimrep.cpp) 
+		- ###### **I**:
+			- [inserare.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Stergeri%20si%20inserari%20de%20elemente%20in%20vectori/inserare.cpp)
+			- [inseraredupa.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Stergeri%20si%20inserari%20de%20elemente%20in%20vectori/inseraredupa.cpp)
+			- [inserareinainte.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Stergeri%20si%20inserari%20de%20elemente%20in%20vectori/inserareinainte.cpp) 
+		- ###### **N**:
+			- [numere2.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Stergeri%20si%20inserari%20de%20elemente%20in%20vectori/numere2.cpp) 
+		- ###### **P**:
+			- [permcirc.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Stergeri%20si%20inserari%20de%20elemente%20in%20vectori/permcirc.cpp) 
+		- ###### **S**:
+			- [stergere.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Stergeri%20si%20inserari%20de%20elemente%20in%20vectori/stergere.cpp)
+			- [stergere1.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Stergeri%20si%20inserari%20de%20elemente%20in%20vectori/stergere1.cpp)
+			- [stergere_element.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Stergeri%20si%20inserari%20de%20elemente%20in%20vectori/stergere_element.cpp) 
 ### Clasa a X-a:
 ### Clasa a XI-a:
