@@ -41,6 +41,23 @@
 			- [catepare.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structuri%20repetitive/catepare.cpp)
 		- ###### **P**:
 			- [p10.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structuri%20repetitive/p10.cpp)
+- ### Algoritmi elementari
+	- **Maxime si minime:**
+		- ###### **M**:
+			- [maxim.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Maxime%20si%20minime/maxim.cpp)
+			- [minime.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Maxime%20si%20minime/minime.cpp)
+		- ###### **N**:
+			- [n_maxim.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Maxime%20si%20minime/n_maxim.cpp)
+			- [n_minim.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Maxime%20si%20minime/n_minim.cpp)
+		- ###### **S**:
+			- [summaxmin.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Maxime%20si%20minime/summaxmin.cpp)
+	- **Divizibilitate:**
+		- ###### **N**:
+			- [numarul_divizorilor_pari.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Divizibilitate/numarul_divizorilor_pari.cpp)
+		- ###### **S**:
+		 	- [suma_divizori.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Divizibilitate/suma_divizori.cpp)
+			- [suma_divizorilor_impari.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Divizibilitate/suma_divizorilor_impari.cpp)
+			- [suma_divizorilor_pari.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Divizibilitate/suma_divizorilor_pari.cpp)
 - ### Tablouri unidimensionale (vectori)
 	- **Parcurgerea vectorilor:**
 		- ###### **A**:
