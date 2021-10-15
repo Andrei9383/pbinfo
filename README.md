@@ -6,9 +6,14 @@
 		- ###### **A**:
 			- [animale.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/animale.cpp)
 			- [asii.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/asii.cpp)
+			- [a16.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/a16.cpp)
 		- ###### **C**:
 			- [camioane.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/camioane.cpp)
 			- [copii.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/copii2.cpp)
+			- [cifre.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/cifre.cpp)
+			- [cumparaturi.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/cumparaturi.cpp)
+		- ###### **E**:
+			- [expatr.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/expatr.cpp)  
 		- ###### **G**:
 			- [globuri.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/globuri.cpp)
 		- ###### **L**:
@@ -20,6 +25,11 @@
 			- [parc2.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/parc2.cpp)
 			- [patratmagic5.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/patratmagic5.cpp)
 			- [picioare.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/picioare.cpp)
+			- [primacifraapartiizecimale.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/primacifraapartiizecimale.cpp)
+			- [ultimacifraapartiiintregi.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/ultimacifraapartiiintregi.cpp)
+		- ###### **R**:
+			- [radical.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/radical.cpp)
+			- [radical1.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/radical1.cpp)  
 		- ###### **S**:
 			- [scadere2.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/scadere2.cpp)
 			- [sum000.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/sum000.cpp)
@@ -58,6 +68,18 @@
 		 	- [suma_divizori.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Divizibilitate/suma_divizori.cpp)
 			- [suma_divizorilor_impari.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Divizibilitate/suma_divizorilor_impari.cpp)
 			- [suma_divizorilor_pari.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Divizibilitate/suma_divizorilor_pari.cpp)
+	- **Sume, produse, numarari:**
+		- ##### **E**:
+			- [expresie.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Sume%2C%20produse%2C%20numarari/expresie.cpp)
+			- [expresie2.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Sume%2C%20produse%2C%20numarari/expresie2.cpp)
+			- [expresie3.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Sume%2C%20produse%2C%20numarari/expresie3.cpp)
+			- [expresie4.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Sume%2C%20produse%2C%20numarari/expresie4.cpp)
+			- [expresie5.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Sume%2C%20produse%2C%20numarari/expresie5.cpp)
+		- ##### **F**:
+			- [factorial.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Sume%2C%20produse%2C%20numarari/factorial.cpp) 
+		- ##### **S**:
+			- [suma_gauss.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Sume%2C%20produse%2C%20numarari/suma_gauss.cpp)
+			- [sumegaussdesumegauss.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Sume%2C%20produse%2C%20numarari/sumegaussdesumegauss.cpp) 
 - ### Tablouri unidimensionale (vectori)
 	- **Parcurgerea vectorilor:**
 		- ###### **A**:
