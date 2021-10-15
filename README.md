@@ -166,6 +166,8 @@
 			- [palxxl.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Verificarea%20unor%20proprietati/palxxl.cpp)
 			- [pareordonate.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Verificarea%20unor%20proprietati/pareordonate.cpp)
 			- [permutare.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Verificarea%20unor%20proprietati/permutare.cpp) 
+			- [proportionale.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Verificarea%20unor%20proprietati/proportionale.cpp)
+			- [proportionale1.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Verificarea%20unor%20proprietati/proportionale1.cpp)
 		- ###### **V**: 
 			- [vecini.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Verificarea%20unor%20proprietati/vecini.cpp)
 			- [verifdiferite.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Verificarea%20unor%20proprietati/verifdiferite.cpp)
