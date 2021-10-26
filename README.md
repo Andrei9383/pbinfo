@@ -176,6 +176,19 @@
 			- [verifmultiplu.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Verificarea%20unor%20proprietati/verifmultiplu.cpp)
 			- [verifnrparcifre.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Verificarea%20unor%20proprietati/verifnrparcifre.cpp)
 			- [veriford.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Verificarea%20unor%20proprietati/veriford.cpp)
-			- [verifpare.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Verificarea%20unor%20proprietati/verifpare.cpp) 
+			- [verifpare.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Verificarea%20unor%20proprietati/verifpare.cpp)
+	- **Sortarea vectorilor:** 
+		- ###### **A**: 
+			- [arhitectura.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Sortarea%20vectorilor/arhitectura.cpp)
+		- ###### **C**:
+			- [cifinit.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Sortarea%20vectorilor/cifinit.cpp)
+			- [cifmin.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Sortarea%20vectorilor/cifmin.cpp) 
+		- ###### **K**:
+			- [ksort.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Sortarea%20vectorilor/ksort.cpp)
+		- ###### **S**:
+			- [sortmax.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Sortarea%20vectorilor/sortmax.cpp)
+			- [sortminmax.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Sortarea%20vectorilor/sortminmax.cpp)
+			- [sortpie.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Sortarea%20vectorilor/sortpie.cpp)
+			- [sortpp.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Sortarea%20vectorilor/sortpp.cpp) 
 ### Clasa a X-a:
 ### Clasa a XI-a:
