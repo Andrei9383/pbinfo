@@ -4,7 +4,7 @@
 - **Operatori si expresii** : ***25 / 73 = 34.24%***
 - **Structuri repetitive** : ***8 / 84 = 9.52%***
 ## Algoritmi elementari
-- **Sume, produse, numarari** : ***8 / 39 = 20.51%***
+- **Sume, produse, numarari** : ***17 / 39 = 43.58%***
 - **Maxime si minime** : ***8 / 37 = 21.62%%***
 - **Divizibilitate** : ***4 / 131 = 3.05%***
 ## Tablouri unidimensionale (vectori)
