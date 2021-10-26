@@ -77,6 +77,11 @@
 			- [expresie5.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Sume%2C%20produse%2C%20numarari/expresie5.cpp)
 		- ##### **F**:
 			- [factorial.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Sume%2C%20produse%2C%20numarari/factorial.cpp) 
+		- ##### **N**:
+			- [n_suma.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Sume%2C%20produse%2C%20numarari/n_suma.cpp)
+			- [numarareperechi.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Sume%2C%20produse%2C%20numarari/numarareperechi.cpp)
+		- ##### **R**:
+			- [resturi.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Sume%2C%20produse%2C%20numarari/resturi.cpp) 
 		- ##### **S**:
 			- [suma_gauss.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Sume%2C%20produse%2C%20numarari/suma_gauss.cpp)
 			- [sumegaussdesumegauss.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Sume%2C%20produse%2C%20numarari/sumegaussdesumegauss.cpp) 
