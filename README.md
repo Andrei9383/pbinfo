@@ -13,3 +13,4 @@
 - **Verificarea unor proprietati** : ***22 / 30 = 73.33%***
 - **Sortarea vectorilor** : ***11 / 55 = 20%***
 - **Cautare binara** : ***1 / 28 = 3.57%***
+- **Interclasare** : ***6 / 8 = 75%***
