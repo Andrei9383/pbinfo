@@ -195,5 +195,14 @@
 			- [sortminmax.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Sortarea%20vectorilor/sortminmax.cpp)
 			- [sortpie.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Sortarea%20vectorilor/sortpie.cpp)
 			- [sortpp.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Sortarea%20vectorilor/sortpp.cpp) 
+	- **Interclasare:**
+		- ###### **C**: 
+			- [comun.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Interclasare/comun.cpp) 
+		- ###### **I**: 
+			- [interclasare.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Interclasare/interclasare.cpp)
+			- [interclasare1.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Interclasare/interclasare1.cpp)
+			- [interclasare2.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Interclasare/interclasare2.cpp)
+			- [interclasare3.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Interclasare/interclasare3.cpp)
+			- [interclasm.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Interclasare/interclasm.cpp) 
 ### Clasa a X-a:
 ### Clasa a XI-a:
