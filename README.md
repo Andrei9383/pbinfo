@@ -203,6 +203,17 @@
 			- [interclasare1.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Interclasare/interclasare1.cpp)
 			- [interclasare2.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Interclasare/interclasare2.cpp)
 			- [interclasare3.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Interclasare/interclasare3.cpp)
-			- [interclasm.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Interclasare/interclasm.cpp) 
+			- [interclasm.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Interclasare/interclasm.cpp)
+- ### Tablouri bidimensionale (matrice)
+	- **Parcurgerea matricelor oarecare:**
+		- ###### **C**:
+			- [cntlinii.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20bidimensionale%20(matrice)/Parcurgerea%20matricelor%20oarecare/cntlinii.cpp)
+		- ###### **M**:
+			- [matrice10.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20bidimensionale%20(matrice)/Parcurgerea%20matricelor%20oarecare/matrice10.cpp) 
+		- ###### **N**:
+			- [nrprime.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20bidimensionale%20(matrice)/Parcurgerea%20matricelor%20oarecare/nrprime.cpp) 
+		- ###### **S**:
+			- [sumalinii.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20bidimensionale%20(matrice)/Parcurgerea%20matricelor%20oarecare/sumalinii.cpp)
+			- [sumapare2.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20bidimensionale%20(matrice)/Parcurgerea%20matricelor%20oarecare/sumapare2.cpp)
 ### Clasa a X-a:
 ### Clasa a XI-a:
