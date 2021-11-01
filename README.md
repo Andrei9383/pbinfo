@@ -216,4 +216,35 @@
 			- [sumalinii.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20bidimensionale%20(matrice)/Parcurgerea%20matricelor%20oarecare/sumalinii.cpp)
 			- [sumapare2.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20bidimensionale%20(matrice)/Parcurgerea%20matricelor%20oarecare/sumapare2.cpp)
 ### Clasa a X-a:
+- ### Subprograme
+	- **Subprograme care returneaza valori:**
+		- ###### **B**:
+			- [b_egal.cpp](https://github.com/Andrei9383/pbinfo/blob/X/Subprograme/Subprograme%20care%20returneaza%20valori/b_egal.cpp) 
+		- ###### **C**:
+			- [celmaimarenr.cpp](https://github.com/Andrei9383/pbinfo/blob/X/Subprograme/Subprograme%20care%20returneaza%20valori/celmaimarenr.cpp)
+			- [cifrezero.cpp](https://github.com/Andrei9383/pbinfo/blob/X/Subprograme/Subprograme%20care%20returneaza%20valori/cifrezero.cpp)
+			- [concat.cpp](https://github.com/Andrei9383/pbinfo/blob/X/Subprograme/Subprograme%20care%20returneaza%20valori/concat.cpp) 
+		- ###### **D**:
+			- [divisors.cpp](https://github.com/Andrei9383/pbinfo/blob/X/Subprograme/Subprograme%20care%20returneaza%20valori/divisors.cpp) 
+		- ###### **F**:
+			- [factorialf.cpp](https://github.com/Andrei9383/pbinfo/blob/X/Subprograme/Subprograme%20care%20returneaza%20valori/factorialf.cpp)
+			- [fcifre.cpp](https://github.com/Andrei9383/pbinfo/blob/X/Subprograme/Subprograme%20care%20returneaza%20valori/fcifre.cpp)
+			- [fmultiplu.cpp](https://github.com/Andrei9383/pbinfo/blob/X/Subprograme/Subprograme%20care%20returneaza%20valori/fmultiplu.cpp)
+			- [fsuma_bac.cpp](https://github.com/Andrei9383/pbinfo/blob/X/Subprograme/Subprograme%20care%20returneaza%20valori/fsuma_bac.cpp)
+			- [fultimacifrapara.cpp](https://github.com/Andrei9383/pbinfo/blob/X/Subprograme/Subprograme%20care%20returneaza%20valori/fultimacifrapara.cpp)
+			- [furmatorulprim.cpp](https://github.com/Andrei9383/pbinfo/blob/X/Subprograme/Subprograme%20care%20returneaza%20valori/furmatorulprim.cpp)
+		- ###### **N**:
+			- [nreal.cpp](https://github.com/Andrei9383/pbinfo/blob/X/Subprograme/Subprograme%20care%20returneaza%20valori/nreal.cpp)
+			- [nroot.cpp](https://github.com/Andrei9383/pbinfo/blob/X/Subprograme/Subprograme%20care%20returneaza%20valori/nroot.cpp) 
+		- ###### **O**:
+			- [oglindit2.cpp](https://github.com/Andrei9383/pbinfo/blob/X/Subprograme/Subprograme%20care%20returneaza%20valori/oglindit2.cpp) 
+		- ###### **P**:
+			- [phi.cpp](https://github.com/Andrei9383/pbinfo/blob/X/Subprograme/Subprograme%20care%20returneaza%20valori/phi.cpp)
+			- [primalitate.cpp](https://github.com/Andrei9383/pbinfo/blob/X/Subprograme/Subprograme%20care%20returneaza%20valori/primalitate.cpp) 
+		- ###### **S**:
+			- [suma_divizorilor.cpp](https://github.com/Andrei9383/pbinfo/blob/X/Subprograme/Subprograme%20care%20returneaza%20valori/suma_divizorilor.cpp)
+			- [sumciff.cpp](https://github.com/Andrei9383/pbinfo/blob/X/Subprograme/Subprograme%20care%20returneaza%20valori/sumciff.cpp)
+			- [sumafactcif.cpp](https://github.com/Andrei9383/pbinfo/blob/X/Subprograme/Subprograme%20care%20returneaza%20valori/sumafactcif.cpp) 
+		- ###### **Z**:
+			- [zerof.cpp](https://github.com/Andrei9383/pbinfo/blob/X/Subprograme/Subprograme%20care%20returneaza%20valori/zerof.cpp) 
 ### Clasa a XI-a:
