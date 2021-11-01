@@ -14,3 +14,5 @@
 - **Sortarea vectorilor** : ***11 / 55 = 20%***
 - **Cautare binara** : ***1 / 28 = 3.57%***
 - **Interclasare** : ***6 / 8 = 75%***
+## Tablouri bidimensionale (matrice)
+- **Parcurgerea matricelor oarecare** : ***5 / 79 = 6.32%***
