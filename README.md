@@ -1,4 +1,4 @@
-# Clasa a ix-a
+# Clasa a IX-a
 
 ## Elemente de baza ale limbajului
 - **Operatori si expresii** : ***25 / 73 = 34.24%***
