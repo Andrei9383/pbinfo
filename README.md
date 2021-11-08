@@ -39,6 +39,36 @@
 		- ###### **U**:
 			- [uciv.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/uciv.cpp)
 			- [urare.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/urare.cpp)
+	- **Structura de decizie:**
+		- ###### **B**:
+			- [bisect.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structura%20de%20decizie/bisect.cpp)
+		- ###### **C**:
+			- [cifegale.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structura%20de%20decizie/cifegale.cpp)
+			- [cimimp.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structura%20de%20decizie/cifimp.cpp)
+			- [concurs1.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structura%20de%20decizie/concurs1.cpp)
+			- [cumparaturi1.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structura%20de%20decizie/cumparaturi1.cpp)
+			- [cumparaturi2.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structura%20de%20decizie/cumparaturi2.cpp) 
+		- ###### **I**:
+			- [interval2.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structura%20de%20decizie/interval2.cpp) 
+		- ###### **L**:
+			- [luna.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structura%20de%20decizie/luna.cpp) 
+		- ###### **M**:
+			- [max2.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structura%20de%20decizie/max2.cpp)
+			- [maxim2.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structura%20de%20decizie/maxim2.cpp)
+			- [maxmin.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structura%20de%20decizie/maxmin.cpp)
+			- [minim3.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structura%20de%20decizie/minim3.cpp)
+		- ###### **N**:
+			- [nota.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structura%20de%20decizie/nota.cpp) 
+		- ###### **P**:
+			- [paritate.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structura%20de%20decizie/paritate.cpp) 
+		- ###### **S**:
+			- [semn.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structura%20de%20decizie/semn.cpp)
+			- [semn1.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structura%20de%20decizie/semn1.cpp)
+			- [sticle.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structura%20de%20decizie/sticle.cpp) 
+		- ###### **U**:
+			- [urm00.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structura%20de%20decizie/urm00.cpp) 
+		- ###### **V**:
+			- [varste_copii.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structura%20de%20decizie/varste_copii.cpp) 
 	- **Structuri repetitive:**
 		- ###### **A**:
 			- [afisarenumere.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structuri%20repetitive/afisarenumere.cpp)
