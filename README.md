@@ -1,7 +1,7 @@
 # Clasa a IX-a
 
 ## Elemente de baza ale limbajului
-- **Operatori si expresii** : ***25 / 73 = 34.24%***
+- **Operatori si expresii** : ***39 / 74 = 52.70%***
 - **Structura de decizie** : ***20 / 75 = 26.66%***
 - **Structuri repetitive** : ***8 / 84 = 9.52%***
 ## Algoritmi elementari
