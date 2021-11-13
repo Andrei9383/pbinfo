@@ -21,7 +21,7 @@
 		- ###### **G**:
 			- [globuri.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/globuri.cpp)
         - ###### **I**:
-            -[invertedcolor.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/invertedcolor.cpp)
+            - [invertedcolor.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/invertedcolor.cpp)
 		- ###### **L**:
 			- [lazi.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/lazi.cpp)
 		- ###### **M**:
