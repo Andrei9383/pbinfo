@@ -12,33 +12,49 @@
 			- [copii.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/copii2.cpp)
 			- [cifre.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/cifre.cpp)
 			- [cumparaturi.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/cumparaturi.cpp)
+            - [countmod10.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/countmod10.cpp)
+            - [cub.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/cub.cpp)
+            - [curte.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/curte.cpp)
 		- ###### **E**:
 			- [expatr.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/expatr.cpp)  
+            - [elimcif.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/elimcif.cpp)
 		- ###### **G**:
 			- [globuri.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/globuri.cpp)
+        - ###### **I**:
+            -[invertedcolor.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/invertedcolor.cpp)
 		- ###### **L**:
 			- [lazi.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/lazi.cpp)
 		- ###### **M**:
 			- [marte1.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/marte1.cpp)
 			- [marte2.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/marte2.cpp)
+            - [medie1.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/medie1.cpp)
+        - ###### **N**:
+            - [numar.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/numar.cpp)
+            - [numar1.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/numar1.cpp)
 		- ###### **P**:
 			- [parc2.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/parc2.cpp)
 			- [patratmagic5.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/patratmagic5.cpp)
 			- [picioare.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/picioare.cpp)
 			- [primacifraapartiizecimale.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/primacifraapartiizecimale.cpp)
-			- [ultimacifraapartiiintregi.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/ultimacifraapartiiintregi.cpp)
+            - [pisici.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/pisici.cpp)
 		- ###### **R**:
 			- [radical.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/radical.cpp)
 			- [radical1.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/radical1.cpp)  
 		- ###### **S**:
 			- [scadere2.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/scadere2.cpp)
 			- [sum000.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/sum000.cpp)
+            - [schimbarecifre.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/schimbarecifre.cpp)
+            - [sumacifperm.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/sumacifperm.cpp)
+            - [sumacifre2.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/sumacifre2.cpp)
+            - [sumapatratecifre.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/sumapatratecifre.cpp)
+            - [sumcif.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/sumcif.cpp)
 		- ###### **T**:
 			- [tren_japonez.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/tren_japonez.cpp)
 			- [triplul.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/triplul.cpp)
 		- ###### **U**:
 			- [uciv.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/uciv.cpp)
 			- [urare.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/urare.cpp)
+            - [ultimacifraapartiiintregi.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/ultimacifraapartiiintregi.cpp)
 	- **Structura de decizie:**
 		- ###### **B**:
 			- [bisect.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structura%20de%20decizie/bisect.cpp)
