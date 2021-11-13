@@ -1,7 +1,7 @@
 # pbinfo
 
 ### Clasa a IX-a:  
-- ### Elemente de baza ale limbajului
+- ### Elemente de baza ale limbajuluI
 	- **Operatori si expresii:**
 		- ###### **A**:
 			- [animale.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Operatori%20si%20expresii/animale.cpp)
