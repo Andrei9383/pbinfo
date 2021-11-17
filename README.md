@@ -94,24 +94,35 @@
 			- [afisarenumerepare.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structuri%20repetitive/afisarenumerepare.cpp)
 			- [afisarenumerepare2.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structuri%20repetitive/afisarenumerepare2.cpp)
 			- [afisareputeri.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structuri%20repetitive/afisareputeri.cpp)
+			- [acelasinumar.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structuri%20repetitive/acelasinumar.cpp)
 		- ###### **C**:
 			- [catepare.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structuri%20repetitive/catepare.cpp)
 			- [cateimpare.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structuri%20repetitive/cateimpare.cpp)
 			- [cub_perfect.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structuri%20repetitive/cub_perfect.cpp)
+		- ###### **L**: 
+			- [log.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structuri%20repetitive/log.cpp)
 		- ###### **M**:
 			- [medie.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structuri%20repetitive/medie.cpp)
+			- [medie_armonica.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structuri%20repetitive/medie_armonica.cpp)
+			- [medie_patratica.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structuri%20repetitive/medie_patratica.cpp)
 		- ###### **P**:
 			- [p10.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structuri%20repetitive/p10.cpp)
+			- [p10_10.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structuri%20repetitive/p10_10.cpp)
 			- [patrat_perfect.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structuri%20repetitive/patrat_perfect.cpp)
 			- [piramida.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structuri%20repetitive/piramida.cpp)
 			- [piramida1.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structuri%20repetitive/piramida1.cpp)
 			- [produscartezian.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structuri%20repetitive/produscartezian.cpp)
 			- [puterileluin.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structuri%20repetitive/puterileluin.cpp)
+			- [power.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structuri%20repetitive/power.cpp)
 		- ###### **S**:
 			- [suma.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structuri%20repetitive/suma.cpp)
 			- [suma1.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structuri%20repetitive/suma1.cpp)
 			- [suma_n.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structuri%20repetitive/suma_n.cpp)
 			- [sumapare1.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structuri%20repetitive/sumapare1.cpp)
+		- ###### **T**:
+			- [triunghidublu.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structuri%20repetitive/triunghidublu.cpp)
+		- ###### **U**:
+			- [ultimulpar.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structuri%20repetitive/ultimulpar.cpp)
 - ### Algoritmi elementari
 	- **Maxime si minime:**
 		- ###### **M**:
@@ -145,6 +156,10 @@
 			- [suma_divizorilor_pari.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Divizibilitate/suma_divizorilor_pari.cpp)
 		- ###### **V**:
 			- [vernrimpdiv.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Divizibilitate/vernrimpdiv.cpp)
+	- **Generarea unor siruri:**
+		- ###### **F**:
+			- [fibonacci.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Generarea%20unor%20siruri/fibonacci.cpp)
+			- [fibonacci1.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Generarea%20unor%20siruri/fibonacci1.cpp)
 	- **Cifrele unui numar:**
 		- ###### **A**:
 			- [aparitii.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Cifrele%20unui%20numar/aparitii.cpp)
