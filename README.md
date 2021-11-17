@@ -130,6 +130,31 @@
 			- [suma_divizorilor_pari.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Divizibilitate/suma_divizorilor_pari.cpp)
 		- ###### **V**:
 			- [vernrimpdiv.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Divizibilitate/vernrimpdiv.cpp)
+	- **Cifrele unui numar:**
+		- ###### **A**:
+			- [aparitii.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Cifrele%20unui%20numar/aparitii.cpp)
+		- ###### **C**:
+			- [cifmaximp.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Cifrele%20unui%20numar/cifmaximp.cpp)
+			- [cifraimparamaxima.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Cifrele%20unui%20numar/cifraimparamaxima.cpp)
+			- [ciframaxima.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Cifrele%20unui%20numar/ciframaxima.cpp)
+			- [cifre23.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Cifrele%20unui%20numar/cifre23.cpp)
+			- [cmmcp.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Cifrele%20unui%20numar/cmmcp.cpp)
+			- [cmmk.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Cifrele%20unui%20numar/cmmk.cpp)
+		- ###### **N**:
+			- [numaruldecifre.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Cifrele%20unui%20numar/numaruldecifre.cpp)
+		- ###### **O**:
+			- [oglindit.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Cifrele%20unui%20numar/oglindit.cpp)
+		- ###### **P**:
+			- [prod_k.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Cifrele%20unui%20numar/prod_k.cpp)
+			- [prod_pi.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Cifrele%20unui%20numar/prod_pi.cpp)
+			- [produscifreimpare.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Cifrele%20unui%20numar/produscifreimpare.cpp)
+		- ###### **S**:
+			- [stergezerouri.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Cifrele%20unui%20numar/stergezerouri.cpp)
+			- [suma_cifrelor.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Cifrele%20unui%20numar/suma_cifrelor.cpp)
+			- [suma_prefixe.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Cifrele%20unui%20numar/suma_prefixe.cpp)
+			- [sumcifnrcif.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Cifrele%20unui%20numar/sumcifnrcif.cpp)
+		- ###### **U**:
+			- [ultimacifrapara.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Cifrele%20unui%20numar/ultimacifrapara.cpp)
 	- **Sume, produse, numarari:**
 		- ###### **E**:
 			- [expresie.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Sume%2C%20produse%2C%20numarari/expresie.cpp)
