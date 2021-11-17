@@ -129,7 +129,7 @@
 			- [suma_divizorilor_impari.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Divizibilitate/suma_divizorilor_impari.cpp)
 			- [suma_divizorilor_pari.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Divizibilitate/suma_divizorilor_pari.cpp)
 		- ###### **V**:
-			-[vernrimpdiv.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Divizibilitate/vernrimpdiv.cpp)
+			- [vernrimpdiv.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Divizibilitate/vernrimpdiv.cpp)
 	- **Sume, produse, numarari:**
 		- ###### **E**:
 			- [expresie.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Sume%2C%20produse%2C%20numarari/expresie.cpp)
