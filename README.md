@@ -93,10 +93,25 @@
 			- [afisarenumereimpare.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structuri%20repetitive/afisarenumereimpare.cpp)
 			- [afisarenumerepare.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structuri%20repetitive/afisarenumerepare.cpp)
 			- [afisarenumerepare2.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structuri%20repetitive/afisarenumerepare2.cpp)
+			- [afisareputeri.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structuri%20repetitive/afisareputeri.cpp)
 		- ###### **C**:
 			- [catepare.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structuri%20repetitive/catepare.cpp)
+			- [cateimpare.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structuri%20repetitive/cateimpare.cpp)
+			- [cub_perfect.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structuri%20repetitive/cub_perfect.cpp)
+		- ###### **M**:
+			- [medie.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structuri%20repetitive/medie.cpp)
 		- ###### **P**:
 			- [p10.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structuri%20repetitive/p10.cpp)
+			- [patrat_perfect.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structuri%20repetitive/patrat_perfect.cpp)
+			- [piramida.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structuri%20repetitive/piramida.cpp)
+			- [piramida1.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structuri%20repetitive/piramida1.cpp)
+			- [produscartezian.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structuri%20repetitive/produscartezian.cpp)
+			- [puterileluin.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structuri%20repetitive/puterileluin.cpp)
+		- ###### **S**:
+			- [suma.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structuri%20repetitive/suma.cpp)
+			- [suma1.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structuri%20repetitive/suma1.cpp)
+			- [suma_n.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structuri%20repetitive/suma_n.cpp)
+			- [sumapare1.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Elemente%20de%20baza%20ale%20limbajului/Structuri%20repetitive/sumapare1.cpp)
 - ### Algoritmi elementari
 	- **Maxime si minime:**
 		- ###### **M**:
