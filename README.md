@@ -108,27 +108,43 @@
 		- ###### **S**:
 			- [summaxmin.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Maxime%20si%20minime/summaxmin.cpp)
 	- **Divizibilitate:**
+		- ###### **C**:
+			- [cmmdc.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Divizibilitate/cmmdc.cpp)
+			- [cmmdc_cmmmc.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Divizibilitate/cmmdc_cmmmc.cpp)
+			- [cmmmc.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Divizibilitate/cmmmc.cpp)
+		- ###### **D**:
+			- [divizorii_oglinditului.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Divizibilitate/divizorii_oglinditului.cpp)
+		- ###### **M**:
+			- [mediediv.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Divizibilitate/mediediv.cpp)
 		- ###### **N**:
 			- [numarul_divizorilor_pari.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Divizibilitate/numarul_divizorilor_pari.cpp)
+			- [nrdivmax.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Divizibilitate/nrdivmax.cpp)
+			- [numarareperechiprimeintreele.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Divizibilitate/numarareperechiprimeintreele.cpp)
+			- [numarperfect.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Divizibilitate/numarperfect.cpp)
+		- ###### **P**:
+			- [ppdp.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Divizibilitate/ppdp.cpp)
+			- [primeintreele.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Divizibilitate/primeintreele.cpp)
 		- ###### **S**:
 		 	- [suma_divizori.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Divizibilitate/suma_divizori.cpp)
 			- [suma_divizorilor_impari.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Divizibilitate/suma_divizorilor_impari.cpp)
 			- [suma_divizorilor_pari.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Divizibilitate/suma_divizorilor_pari.cpp)
+		- ###### **V**:
+			-[vernrimpdiv.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Divizibilitate/vernrimpdiv.cpp)
 	- **Sume, produse, numarari:**
-		- ##### **E**:
+		- ###### **E**:
 			- [expresie.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Sume%2C%20produse%2C%20numarari/expresie.cpp)
 			- [expresie2.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Sume%2C%20produse%2C%20numarari/expresie2.cpp)
 			- [expresie3.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Sume%2C%20produse%2C%20numarari/expresie3.cpp)
 			- [expresie4.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Sume%2C%20produse%2C%20numarari/expresie4.cpp)
 			- [expresie5.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Sume%2C%20produse%2C%20numarari/expresie5.cpp)
-		- ##### **F**:
+		- ###### **F**:
 			- [factorial.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Sume%2C%20produse%2C%20numarari/factorial.cpp) 
-		- ##### **N**:
+		- ###### **N**:
 			- [n_suma.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Sume%2C%20produse%2C%20numarari/n_suma.cpp)
 			- [numarareperechi.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Sume%2C%20produse%2C%20numarari/numarareperechi.cpp)
-		- ##### **R**:
+		- ###### **R**:
 			- [resturi.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Sume%2C%20produse%2C%20numarari/resturi.cpp) 
-		- ##### **S**:
+		- ###### **S**:
 			- [suma_gauss.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Sume%2C%20produse%2C%20numarari/suma_gauss.cpp)
 			- [sumegaussdesumegauss.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Algoritmi%20elementari/Sume%2C%20produse%2C%20numarari/sumegaussdesumegauss.cpp) 
 - ### Tablouri unidimensionale (vectori)
@@ -241,6 +257,7 @@
 			- [sortminmax.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Sortarea%20vectorilor/sortminmax.cpp)
 			- [sortpie.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Sortarea%20vectorilor/sortpie.cpp)
 			- [sortpp.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Sortarea%20vectorilor/sortpp.cpp) 
+			- [sortare.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Sortarea%20vectorilor/sortare.cpp)
 	- **Interclasare:**
 		- ###### **C**: 
 			- [comun.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Interclasare/comun.cpp) 
