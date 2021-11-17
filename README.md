@@ -251,6 +251,15 @@
 		- ###### **U**:
 			- [uemm.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Parcurgerea%20vectorilor/uemm.cpp)
 			- [unice1.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Parcurgerea%20vectorilor/unice1.cpp)
+	- **Probleme cu secvente:**
+		- ###### **S**:
+			- [secvegale.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Probleme%20cu%20secvente/secvegale.cpp)
+			- [secventa1.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Probleme%20cu%20secvente/secventa1.cpp)
+			- [secventa2.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Probleme%20cu%20secvente/secventa2.cpp)
+			- [secvmax.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Probleme%20cu%20secvente/secvmax.cpp)
+			- [secvzero.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Probleme%20cu%20secvente/secvzero.cpp)
+			- [sumsec.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Probleme%20cu%20secvente/sumsec.cpp)
+			- [sumsec1.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Probleme%20cu%20secvente/sumsec1.cpp)
 	- **Stergeri si inserari de elemente in vectori:**
 		- ###### **A**:
 			- [aceeasi_paritate.cpp](https://github.com/Andrei9383/pbinfo/blob/IX/Tablouri%20unidimensionale%20(vectori)/Stergeri%20si%20inserari%20de%20elemente%20in%20vectori/aceeasi_paritate.cpp)
