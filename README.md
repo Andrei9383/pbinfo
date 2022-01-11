@@ -373,5 +373,21 @@
 			- [sumciff.cpp](https://github.com/Andrei9383/pbinfo/blob/X/Subprograme/Subprograme%20care%20returneaza%20valori/sumciff.cpp)
 			- [sumafactcif.cpp](https://github.com/Andrei9383/pbinfo/blob/X/Subprograme/Subprograme%20care%20returneaza%20valori/sumafactcif.cpp) 
 		- ###### **Z**:
-			- [zerof.cpp](https://github.com/Andrei9383/pbinfo/blob/X/Subprograme/Subprograme%20care%20returneaza%20valori/zerof.cpp) 
+			- [zerof.cpp](https://github.com/Andrei9383/pbinfo/blob/X/Subprograme/Subprograme%20care%20returneaza%20valori/zerof.cpp)
+    - **Subprograme care intorc valori prin parametri:**
+        - ###### **C**:
+            - [cifminmax.cpp](https://github.com/Andrei9383/pbinfo/blob/X/Subprograme/Subprograme%20care%20intorc%20valori%20prin%20parametri/cifminmax.cpp)
+        - ###### **D**:    
+            - [detcifre.cpp](https://github.com/Andrei9383/pbinfo/blob/X/Subprograme/Subprograme%20care%20intorc%20valori%20prin%20parametri/detcifre.cpp)
+            - [dublare1.cpp](https://github.com/Andrei9383/pbinfo/blob/X/Subprograme/Subprograme%20care%20intorc%20valori%20prin%20parametri/dublare1.cpp)
+        - ###### **E**:    
+            - [eliminarecifre.cpp](https://github.com/Andrei9383/pbinfo/blob/X/Subprograme/Subprograme%20care%20intorc%20valori%20prin%20parametri/eliminarecifre.cpp)
+        - ###### **I**:     
+            - [impare_bac.cpp](https://github.com/Andrei9383/pbinfo/blob/X/Subprograme/Subprograme%20care%20intorc%20valori%20prin%20parametri/impare_bac.cpp)
+        - ###### **K**: 
+            - [kprefix.cpp](https://github.com/Andrei9383/pbinfo/blob/X/Subprograme/Subprograme%20care%20intorc%20valori%20prin%20parametri/kprefix.cpp)
+        - ###### **S**:     
+            - [suma_cifrelor.cpp](https://github.com/Andrei9383/pbinfo/blob/X/Subprograme/Subprograme%20care%20intorc%20valori%20prin%20parametri/suma_cifrelor.cpp)
+            - [suma_divizorilor_2.cpp](https://github.com/Andrei9383/pbinfo/blob/X/Subprograme/Subprograme%20care%20intorc%20valori%20prin%20parametri/suma_divizorilor_2.cpp)
+            - [sumacifre.cpp](https://github.com/Andrei9383/pbinfo/blob/X/Subprograme/Subprograme%20care%20intorc%20valori%20prin%20parametri/sumacifre.cpp)
 ### Clasa a XI-a:
